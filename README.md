@@ -1,6 +1,6 @@
 # 🔒 **Obfuscator Tool** 🛠️
 
-![Obfuscator Tool](https://media.discordapp.net/attachments/1304916161355317268/1307809220472606730/image.png?ex=673ba7c0&is=673a5640&hm=370512a21785d79ab3d970c75dc1461111f2c6fe937c6ca0a1a09e2e2fe1d6fa&=&format=webp&quality=lossless)
+![Obfuscator Tool](https://media.discordapp.net/attachments/1304916161355317268/1307818942496116746/image.png?ex=673bb0cd&is=673a5f4d&hm=b12bc6821bd60a0336f86e5c96a12a52cab8d95f914e80b3df492f4012898532&=&format=webp&quality=lossless)
 
 **Obfuscator Tool** est un outil conçu pour rendre un code source moins lisible et moins compréhensible. L'outil permet d'obfusquer un script Python `.py`, rendant ainsi son contenu difficile à comprendre et donc difficile à exploiter. Cela permet de protéger votre code contre l'accès non autorisé et d'éviter que votre projet soit vu comme un "open source".
 
